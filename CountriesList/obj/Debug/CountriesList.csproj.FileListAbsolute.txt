@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\bin\Debug\CountriesList.exe.config
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\bin\Debug\CountriesList.exe
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\bin\Debug\CountriesList.pdb
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList_MarkupCompile.cache
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList_MarkupCompile.lref
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.g.resources
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.Properties.Resources.resources
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.exe
+C:\Users\USER\Desktop\ProgressInternTask\CountriesList\CountriesList\obj\Debug\CountriesList.pdb
